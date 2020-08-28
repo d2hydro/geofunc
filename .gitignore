@@ -1,0 +1,4 @@
+.eggs
+geofunc/__pycache__
+geofunc/raster/__pycache__
+geofunc.egg-info
